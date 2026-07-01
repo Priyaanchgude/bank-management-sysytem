@@ -43,4 +43,4 @@ Runs on: http://localhost:3000
 | DELETE | /api/account/delete/{id}   | Delete account    |
 
 ## Developer
-Shridhar Borule
+ PRIYANKA NAGORAO WAKODE
