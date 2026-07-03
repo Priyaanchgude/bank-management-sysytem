@@ -1,6 +1,5 @@
 # 🏦 Bank Management System
 
-Full Stack Web Application built with Spring Boot and React.
 
 ## Tech Stack
 ### Backend
@@ -15,10 +14,6 @@ Full Stack Web Application built with Spring Boot and React.
 - Axios
 - CSS-in-JS
 
-## Project Structure
-bank-management-system/
- ├── backend/   → Spring Boot REST APIs
- └── frontend/  → React Frontend
 
 ## How to Run
 
